@@ -4,8 +4,8 @@ A modern, responsive note-taking app built with React and Tailwind CSS.
 
 ## 🚀 Live Demo
 
-- [Keeper App on Netlify](https://your-netlify-link.netlify.app)
-- [Keeper App on Vercel](https://your-vercel-link.vercel.app)
+- [Keeper App on Netlify](https://vite-keeper-app.netlify.app/)
+- [Keeper App on Vercel](https://vite-keeper-app.vercel.app/)
 
 ## ✨ Features
 
